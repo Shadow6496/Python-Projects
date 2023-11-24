@@ -14,4 +14,3 @@ else:
     print("Please enter proper format")
 print(result)
 
-# add visability possibly
